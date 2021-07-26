@@ -116,4 +116,4 @@ Trabalho de Curso II | | | | | | | | 60h
 
 ## <div id="ementas" align="center"> Ementas </div>
   
-As ementas estão disponíveis em <a href="curso/ementa.md">Ementas</a>
+As ementas estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas</a>
