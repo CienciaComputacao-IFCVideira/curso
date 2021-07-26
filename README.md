@@ -43,63 +43,70 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
   
 Componente Curricular | 1° sem | 2° sem | 3° sem | 4° sem | 5° sem | 6° sem | 7° sem | 8° sem |
 :------:  | :-------:  |  :-------: | :--------: | :--------: | :--------: |:--------: | :--------: | :--------: |
-Fundamentos de Informática | 60h 
-Algoritmos | 90h
-Cálculo Diferencial e Integral | 60h 
-Inglês | 60h  
-Metodologia Científica e de Pesquisa| 60h
+Algoritmos | 90h 
+Fundamentos da Informática | 30h
+Fundamentos Matemáticos da Computação | 60h 
+Inglês I | 30h  
+Metodologia Científica | 30h
+Pré Cálculo | 60h
 -| - | - | - | - | - | - | - | - |
-Linguagem de Programação | | 60h 
-Arquitetura de Computadores | | 60h 
-Probabilidade e Estatística | | 60h
-Fundamentos Matemáticos da Computação | | 60h
-Fundamentos Matemáticos da Computação | | 60h
-Filosofia | | 30h
-Física | | 30h
+Banco de Dados I | | 60h 
+Cálculo Diferencial e Integral I | | 60h 
+Inglês II | | 30h
+Linguagem de Programação I | | 90h
+Matemática Discreta | | 60h
+Web Design | | 30h
 -| - | - | - | - | - | - | - | - |
-Estruturas de Dados | | | 60h
-Banco de Dados I | | | 60h
-Métodos Numéricos | | | 60h
-Matemática Discreta | | | 30h
+Banco de Dados II | | | 60h
+Cálculo Diferencial e Integral II | | | 60h
+Epistemologia e Filosofia | | | 30h
+Estrutura de Dados I | | | 60h
+Física I | | | 30h
+Inglês III | | | 30h
+Linguagem de Programação II | | | 60h
 Paradigmas da Computação | | | 30h
-Sistemas Operacionais | | | 60h
 -| - | - | - | - | - | - | - | - |
-Redes de Computadores | | | | 60h
-Banco de Dados II | | | | 60h
-Linguagem de Programação II | | | | 90h
 Álgebra Linear | | | | 60h
-Linguagens Formais e Autômatos | | | | 30h
+Estrutura de Dados II | | | | 30h
+Física II | | | | 30h
+Inglês IV | | | | 30h
+Linguagem de Programação II | | | | 60h
+Sistemas Operacionais | | | | 75h
 -| - | - | - | - | - | - | - | - |
-Computação Gráfica | | | | | 60h
-Circuitos Eletrônicos e Digitais | | | | | 60h
-Redes de Computadores II | | | | | 60h
-Engenharia de Software I | | | | | 60h
+Arquitetura de Computadores | | | | | 60h
+Circuitos Digitais | | | | | 30h
 Compiladores | | | | | 60h
+Computação Gráfica | | | | | 60h
+Engenharia de Software I | | | | | 60h
+Probabilidade e Estatística | | | | | 60h
+Redes de Computadores II | | | | | 60h
 -| - | - | - | - | - | - | - | - |
-Tecnologia e Sociedade | | | | | | 30h
-Sistemas Digitais | | | | | | 60h
-Programação Lógica e Funcional | | | | | | 30h
+Ciência, Tecnologia e Sociedade | | | | | | 30h
 Engenharia de Software II | | | | | | 60h
-Teoria da Computação | | | | | | 60h
+Métodos Numéricos | | | | | | 60h
 Optativa I | | | | | | 60h
+Pesquisa em Computação | | | | | | 60h
+Sistemas Embarcados | | | | | | 60h
+Teoria da Computação | | | | | | 60h
 -| - | - | - | - | - | - | - | - |
-Empreendedorismo | | | | | | | 30h
+Inteligência Artificial | | | | | | | 60h
 Interface Homem-Máquina | | | | | | | 60h
+Optativa II | | | | | | | 30h
+Programação Lógica e Funcional | | | | | | | 30h
+Segurança de Sistemas | | | | | | | 60h
 Sistemas Distribuídos | | | | | | | 60h
-Programação Paralela e Multicore | | | | | | | 60h
-Trabalho de Curso I | | | | | | | 120h
-Optativa II | | | | | | | 60h
+Trabalho de Curso I | | | | | | | 60h
 -| - | - | - | - | - | - | - | - |
-Direito e Ética na Computação | | | | | | | | 30h
-Inteligência Artificial | | | | | | | | 60h
+Administração e Comunicação | | | | | | | | 60h
+Direito e Ética na Computação | | | | | | | | 60h
 Gestão de Tecnologia da Informação | | | | | | | | 60h
-Trabalho de Curso II | | | | | | | | 180h
-Estágio Supervisionado | | | | | | | | 200h
-Optativa III | | | | | | | | 60h
+Optativa III | | | | | | | | 30h
+Programação Paralela e Multi-core | | | | | | | | 60h
+Trabalho de Curso II | | | | | | | | 60h
   
   &nbsp;
   
-<div align="center"> <a href="http://videira.ifc.edu.br/ciencia-da-computacao/ppc/disciplinas/"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=8600d4"/></a> </div>
+<div align="center"> <a href="http://videira.ifc.edu.br/ciencia-da-computacao/wp-content/uploads/sites/11/2016/12/PPC-2017-03-Matriz-disciplinas-obrigat%C3%B3rias.pdf"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=8600d4"/></a> </div>
   
   &nbsp;
   
@@ -108,3 +115,5 @@ Optativa III | | | | | | | | 60h
 </p>
 
 ## <div id="ementas" align="center"> Ementas </div>
+  
+As ementas estão disponíveis em <a href="curso/ementa.md">Ementas</a>
