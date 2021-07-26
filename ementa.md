@@ -424,4 +424,4 @@ de	Conclusão	de	Curso.
 
  &nbsp;
   
-<div align="center"> <a http://videira.ifc.edu.br/ciencia-da-computacao/wp-content/uploads/sites/11/2016/12/PPC-2017-06-Ementas-e-bibliografia-obrigat%C3%B3rias-v2.pdf><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=8600d4"/></a> </div>
+<div align="center"> <a href="http://videira.ifc.edu.br/ciencia-da-computacao/wp-content/uploads/sites/11/2016/12/PPC-2017-06-Ementas-e-bibliografia-obrigat%C3%B3rias-v2.pdf"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=8600d4"/></a> </div>
