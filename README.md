@@ -13,8 +13,9 @@
 * <a href="#sobre-o-curso">Sobre o curso</a>
 * <a href="#projetos">Projetos<a>
 * <a href="#disciplinas">Disciplinas Obrigatórias<a>
+  * <a href="#matriz">Matriz curricular obrigatória<a>
 * <a href="#disciplinas-op">Disciplinas Opcionais<a>
-  * <a href="#matriz-op">Matriz curricular Opcional<a>
+  * <a href="#matriz-op">Matriz curricular opcional<a>
 * <a href="#ementas">Ementas<a>
 
 <p align="center">
