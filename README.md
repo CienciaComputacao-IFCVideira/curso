@@ -108,7 +108,7 @@ Trabalho de Curso II | | | | | | | | 60h
   
   &nbsp;
   
-<div align="center"> <a href="http://videira.ifc.edu.br/ciencia-da-computacao/wp-content/uploads/sites/11/2016/12/PPC-2017-03-Matriz-disciplinas-obrigat%C3%B3rias.pdf"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=8600d4"/></a> </div>
+<div align="center"> <a href="http://videira.ifc.edu.br/ciencia-da-computacao/wp-content/uploads/sites/11/2016/12/PPC-2017-03-Matriz-disciplinas-obrigat%C3%B3rias.pdf"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas%20obrigatorias-green?style=for-the-badge&color=8600d4"/></a> </div>
   
   &nbsp;
   
