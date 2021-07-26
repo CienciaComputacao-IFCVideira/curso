@@ -12,8 +12,9 @@
 ### Navegação
 * <a href="#sobre-o-curso">Sobre o curso</a>
 * <a href="#projetos">Projetos<a>
-* <a href="#disciplinas">Disciplinas<a>
-  * <a href="#matriz">Matriz curricular<a>
+* <a href="#disciplinas">Disciplinas Obrigatórias<a>
+* <a href="#disciplinas-op">Disciplinas Opcionais<a>
+  * <a href="#matriz-op">Matriz curricular Opcional<a>
 * <a href="#ementas">Ementas<a>
 
 <p align="center">
@@ -38,8 +39,8 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
   
-## <div id="disciplinas" align="center"> Disciplinas </div>
-### <div id="matriz" align="justify"> Matriz curricular </div>
+## <div id="disciplinas" align="center"> Disciplinas Obrigatórias </div>
+### <div id="matriz" align="justify"> Matriz curricular Obrigatória </div>
   
 Componente Curricular | 1° sem | 2° sem | 3° sem | 4° sem | 5° sem | 6° sem | 7° sem | 8° sem |
 :------:  | :-------:  |  :-------: | :--------: | :--------: | :--------: |:--------: | :--------: | :--------: |
