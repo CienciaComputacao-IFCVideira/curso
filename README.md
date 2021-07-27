@@ -43,7 +43,7 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
 ## <div id="disciplinas" align="center"> Disciplinas Obrigatórias </div>
 ### <div id="matriz" align="justify"> Matriz curricular Obrigatória </div>
   
-Componente Curricular | 1° sem | 2° sem | 3° sem | 4° sem | 5° sem | 6° sem | 7° sem | 8° sem |
+Componente Curricular | 1° semestre | 2° semestre | 3° semestre | 4° semestre | 5° semestre | 6° semestre | 7° semestre | 8° semestre |
 :------:  | :-------:  |  :-------: | :--------: | :--------: | :--------: |:--------: | :--------: | :--------: |
 Algoritmos | 90h 
 Fundamentos da Informática | 30h
