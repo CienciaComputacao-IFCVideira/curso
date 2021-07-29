@@ -11,17 +11,19 @@
 
 ### <div id="nav">Navegação</div>
 * <a href="#sobre-o-curso">Sobre o curso</a>
-* <a href="#projetos">Projetos<a>
-* <a href="#disciplinas">Disciplinas Obrigatórias<a>
-  * <a href="#matriz">Matriz curricular obrigatória<a>
-* <a href="#disciplinas-op">Disciplinas Optativas<a>
-  * <a href="#matriz-op">Matriz curricular optativa<a>
-* <a href="#ementas">Ementas<a>
-* <a href="#calendario">Calendário 2021<a>
-* <a href="#docente">Corpo docente<a>
-* <a href="#egresso">Perfil do egresso<a>
-* <a href="#coordenacao">Coordenação<a>
-* <a href="#info">Mais informações<a>
+* <a href="#projetos">Projetos</a>
+* <a href="#disciplinas">Disciplinas obrigatórias</a>
+  * <a href="#matriz">Matriz curricular obrigatória</a>
+* <a href="#disciplinas-op">Disciplinas optativas</a>
+  * <a href="#matriz-op">Matriz curricular optativa</a>
+* <a href="#ementas">Ementas</a>
+* <a href="#calendario">Calendários 2021</a>
+  * <a href="#acad">Calendário acadêmico - cursos superiores</a>
+  * <a href="#calendario-curso">Calendário do curso de ciência da computação</a>
+* <a href="#docente">Corpo docente</a>
+* <a href="#egresso">Perfil do egresso</a>
+* <a href="#coordenacao">Coordenação</a>
+* <a href="#info">Mais informações</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -49,8 +51,8 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
   
-## <div id="disciplinas" align="center"> Disciplinas Obrigatórias </div>
-### <div id="matriz" align="justify"> Matriz curricular Obrigatória </div>
+## <div id="disciplinas" align="center"> Disciplinas obrigatórias </div>
+### <div id="matriz" align="justify"> Matriz curricular obrigatória </div>
   
 Componente Curricular | 1° semestre | 2° semestre | 3° semestre | 4° semestre | 5° semestre | 6° semestre | 7° semestre | 8° semestre |
 :------:  | :-------:  |  :-------: | :--------: | :--------: | :--------: |:--------: | :--------: | :--------: |
@@ -134,8 +136,7 @@ Trabalho de Curso II | | | | | | | | 60h
   
   
   
-  
-  ## <div id="disciplinas-op" align="center"> Disciplinas Optativas</div>
+  ## <div id="disciplinas-op" align="center"> Disciplinas optativas</div>
 ### <div id="matriz-op" align="justify"> Matriz curricular optativa </div>
   
 Componente Curricular | Carga Horária 
@@ -165,19 +166,12 @@ Tópicos Especiais em Informática VI | 30h
   
   &nbsp;
   
-  
-  
+     
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
+  
 
-  
-  
-  
-  
-  
-  
-  
 ## <div id="ementas" align="center"> Ementas </div>
   
 As ementas **obrigatórias** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas Obrigatórias</a>
@@ -188,5 +182,20 @@ As ementas **optativas** estão disponíveis em <a href="https://github.com/Cien
   
 &nbsp;
   
-  <p align="center">Voltar ao <a href="#nav">topo</a></p>
-
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+   
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>
+  
+## <div id="calendario" align="center">Calendários 2021</div>
+  
+### <div id="acad" align="center">Calendário acadêmico - cursos superiores</div>
+  
+Você pode encontrar o calendário acadêmico dos cursos superiores <a href="http://videira.ifc.edu.br/wp-content/uploads/2021/03/GRADUACAO.pdf">aqui</a>
+  
+### <div id="calendario-curso" align="center">Calendário do curso de ciência da computação</div>
+* <a href="https://docs.google.com/spreadsheets/d/1fBRKQ0JCF0oDz6OW6XBCkiM7gw02su8ZG4e3EY03H8c/edit#gid=1594109815">Calendário 1º semestre</a>
+&nbsp;
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
