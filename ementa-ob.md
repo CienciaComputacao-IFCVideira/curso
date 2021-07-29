@@ -1,4 +1,4 @@
-# <div align="center"> Bacharelado em Ciência da Computação: Ementa </div>
+# <div align="center"> Bacharelado em Ciência da Computação: Ementa Obrigatória</div>
 
 ### <div align="center"> Instituto Federal Catarinense - Campus Videira </div>
 
