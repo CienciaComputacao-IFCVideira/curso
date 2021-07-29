@@ -9,7 +9,7 @@
 </p>
 
 
-### Navegação
+### <div id="nav">Navegação</div>
 * <a href="#sobre-o-curso">Sobre o curso</a>
 * <a href="#projetos">Projetos<a>
 * <a href="#disciplinas">Disciplinas Obrigatórias<a>
@@ -17,6 +17,11 @@
 * <a href="#disciplinas-op">Disciplinas Opcionais<a>
   * <a href="#matriz-op">Matriz curricular opcional<a>
 * <a href="#ementas">Ementas<a>
+* <a href="#calendario">Calendário 2021<a>
+* <a href="#docente">Corpo docente<a>
+* <a href="#egresso">Perfil do egresso<a>
+* <a href="#coordenacao">Coordenação<a>
+* <a href="#info">Mais informações<a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -30,11 +35,15 @@
   
 O Curso visa a uma formação que capacite o profissional à solução de problemas, por meio da construção de modelos computacionais baseados no desenvolvimento científico e tecnológico da computação. Assim, espera-se que o profissional assuma uma postura de agente transformador e que faça história, seja ela escrita no papel ou em linguagem eletrônica.<div>
   
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
   
 ## <div id="projetos" align="center"> Projetos </div>
+  
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -112,10 +121,14 @@ Trabalho de Curso II | | | | | | | | 60h
   
   &nbsp;
   
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
 
 ## <div id="ementas" align="center"> Ementas </div>
   
-As ementas estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas</a>
+<p>As ementas estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas</a></p>
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
