@@ -14,8 +14,8 @@
 * <a href="#projetos">Projetos<a>
 * <a href="#disciplinas">Disciplinas Obrigatórias<a>
   * <a href="#matriz">Matriz curricular obrigatória<a>
-* <a href="#disciplinas-op">Disciplinas Opcionais<a>
-  * <a href="#matriz-op">Matriz curricular opcional<a>
+* <a href="#disciplinas-op">Disciplinas Optativas<a>
+  * <a href="#matriz-op">Matriz curricular optativa<a>
 * <a href="#ementas">Ementas<a>
 * <a href="#calendario">Calendário 2021<a>
 * <a href="#docente">Corpo docente<a>
@@ -127,8 +127,66 @@ Trabalho de Curso II | | | | | | | | 60h
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
 
+  
+  
+  
+  
+  
+  
+  
+  
+  ## <div id="disciplinas-op" align="center"> Disciplinas Optativas</div>
+### <div id="matriz-op" align="justify"> Matriz curricular optativa </div>
+  
+Componente Curricular | Carga Horária 
+:------:  | :-------: 
+Tópicos Especiais em Informática | 30h 
+Aprendizagem de Máquina | 60h
+Avaliação de Desempenho | 60h 
+Gerência de Redes | 60h  
+Gestão de Projetos | 60h
+Mineração de Dados | 60h
+Multimídia e Hipermídia | 60h 
+Programação de Jogos Digitais | 60h 
+Teoria de Grafos | 60h
+Libras | 30h
+Web Service | 30h
+Metodologias de Reconhecimento de Padrões | 30h
+Tópicos Especiais em Informática I | 30h
+Tópicos Especiais em Informática II | 30h
+Tópicos Especiais em Informática III | 30h
+Tópicos Especiais em Informática IV | 30h
+Tópicos Especiais em Informática V | 30h
+Tópicos Especiais em Informática VI | 30h
+  
+  &nbsp;
+  
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+  &nbsp;
+  
+  
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>
+
+  
+  
+  
+  
+  
+  
+  
 ## <div id="ementas" align="center"> Ementas </div>
   
-<p>As ementas estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas</a></p>
+As ementas **obrigatórias** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas Obrigatórias</a>
+
+  
+As ementas **optativas** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa-op.md">Ementas Optativas</a>
+  
+  
+&nbsp;
   
   <p align="center">Voltar ao <a href="#nav">topo</a></p>
+
