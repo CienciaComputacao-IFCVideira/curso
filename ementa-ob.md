@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
 
-### Navegação
+### <div id="nav">Navegação</div>
 * <a href="#sem-1">1º Semestre</a>
 * <a href="#sem-2">2º Semestre</a>
 * <a href="#sem-3">3º Semestre</a>
@@ -65,6 +65,11 @@ Produto	Notáveis,	 Fatoração	 de	 Polinômios,	 Expressões	 Fracionárias,	 
 2o	 graus,	 Inequações,	 Trigonometria,	 Exponencial,	 Logaritmo,	 Funções	 Reais	 de	 uma	
 Variável.	
 
+
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
@@ -111,6 +116,10 @@ Geradoras	e	Verificadoras,	Códigos	de	Grupo,	Códigos	de Hamming.
 desenvolvimento	para	a	Internet.	Estruturação	de	páginas	estáticas	para	Web	com	HTML.	
 Formatação	de	estilo	e	apresentação	de	páginas	Web	com	CSS.	Programação	de	páginas	
 WEB.
+
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -164,6 +173,10 @@ de	Projeto.
 
 * **Ementa**: Visão	comparativa	de	paradigmas	de	programação.	Problemas	tratáveis	pelos	paradigmas.	Definição	e	
 caracterização	dos	principais	paradigmas	declarativos	e	imperativos.
+
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -224,6 +237,10 @@ Tratamento.	Memória:	Alocação,	Gerência	e	Memória	Virtual.	Entrada	e	Saída
 software,	dispositivos	periféricos.	Sistema	de	Arquivos:	Arquivos,	Diretórios	e	Implementação.	Proteção	
 e	Segurança.
 
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
@@ -279,6 +296,10 @@ Correlação	e	Regressão.
 
 * **Ementa**: Aplicações	e	Serviços	de	rede.	Protocolos	de	Aplicação.	Qualidade	de	Serviço.	Computação	em	nuvem.
 
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
@@ -322,6 +343,10 @@ atuadores.	Dispositivos	de	entrada	e	saída.
 * **Ementa**: Programas,	 Máquinas	 e	 Computações.	 Máquinas	 de	 Turing.	 Funções	 Recursivas.	 Computabilidade.	
 Decidibilidade.	 Análise	 e	 Complexidade	 de	 Algoritmos.	 Classes	 e	 complexidade	 de	 problemas	
 computacionais.
+
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -375,6 +400,10 @@ resultados	esperados,	estado	da	arte,	desenvolvimento,	experimentos,	conclusões
 para	 proceder	 à	 revisão	 bibliográfica	 e	 a	 escrita	 de	 artigos	 científicos.	 Orientação	 para	 o	
 desenvolvimento	do	projeto	em	Ciência	da	Computação.
 
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>
@@ -421,6 +450,11 @@ clássicos	de	programação	paralela.
 
 * **Ementa**: Desenvolvimento	de	projeto	na	área	de	Informática.	Obedece	ao	Regulamento	de	Trabalho	
 de	Conclusão	de	Curso.
+
+
+&nbsp;
+  
+  <p align="center">Voltar ao <a href="#nav">topo</a></p>
 
  &nbsp;
   
