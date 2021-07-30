@@ -37,6 +37,8 @@
   
 O Curso visa a uma formação que capacite o profissional à solução de problemas, por meio da construção de modelos computacionais baseados no desenvolvimento científico e tecnológico da computação. Assim, espera-se que o profissional assuma uma postura de agente transformador e que faça história, seja ela escrita no papel ou em linguagem eletrônica.<div>
   
+  &nbsp;
+  
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
 <p align="center">
@@ -44,6 +46,8 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
 </p>
   
 ## <div id="projetos" align="center"> Projetos </div>
+  
+  &nbsp;
   
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
@@ -164,8 +168,6 @@ Tópicos Especiais em Informática VI | 30h
   
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
-  &nbsp;
-  
      
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
@@ -193,7 +195,7 @@ As ementas **optativas** estão disponíveis em <a href="https://github.com/Cien
   
 ### <div id="acad" align="center">Calendário acadêmico - cursos superiores</div>
   
-Você pode encontrar o calendário acadêmico dos cursos superiores <a href="http://videira.ifc.edu.br/wp-content/uploads/2021/03/GRADUACAO.pdf">aqui</a>
+Você pode encontrar o calendário acadêmico dos cursos superiores <a href="http://videira.ifc.edu.br/wp-content/uploads/2021/03/GRADUACAO.pdf">aqui!</a>
   
 ### <div id="calendario-curso" align="center">Calendário do curso de ciência da computação</div>
 * <a href="https://docs.google.com/spreadsheets/d/1fBRKQ0JCF0oDz6OW6XBCkiM7gw02su8ZG4e3EY03H8c/edit#gid=1594109815">Calendário 1º semestre</a>
