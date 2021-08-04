@@ -58,7 +58,7 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
 ## <div id="disciplinas" align="center"> Disciplinas obrigatórias </div>
 ### <div id="matriz" align="justify"> Matriz curricular obrigatória </div>
   
-Componente Curricular | 1° semestre | 2° semestre | 3° semestre | 4° semestre | 5° semestre | 6° semestre | 7° semestre | 8° semestre |
+Componente Curricular | 1° sem | 2° sem | 3° sem | 4° sem | 5° sem | 6° sem | 7° sem | 8° sem |
 :------:  | :-------:  |  :-------: | :--------: | :--------: | :--------: |:--------: | :--------: | :--------: |
 Algoritmos | 90h 
 Fundamentos da Informática | 30h
@@ -176,7 +176,7 @@ Tópicos Especiais em Informática VI | 30h
 
 ## <div id="ementas" align="center"> Ementas </div>
   
-As ementas **obrigatórias** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa.md">Ementas Obrigatórias</a>
+As ementas **obrigatórias** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa-ob.md">Ementas Obrigatórias</a>
 
   
 As ementas **optativas** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa-op.md">Ementas Optativas</a>
