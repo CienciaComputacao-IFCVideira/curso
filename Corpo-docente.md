@@ -33,6 +33,10 @@
 
 **Link:** http://lattes.cnpq.br/3949111387596992
 
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/andressa-campos-12a82a144
+
 ### <div align="center">Áreas de Pesquisa</div>
 
 ### <div align="center">Disciplinas que Ministra</div>
@@ -59,7 +63,7 @@
 ## <div> Carlos Roberto da Silva </div>
 
 <p align="center">
-  <img src="" height="341" width="192"/>
+  <img src="https://user-images.githubusercontent.com/87784393/129793833-e7d7f935-db71-4fc6-b616-930d60c8936e.png" height="194" width="259"/>
 </p>
 
 ### <div align="center">Formação</div>
@@ -75,11 +79,11 @@
 
 ### <div align="center">Currículo Lattes</div>
 
-**Link:** ?
+**Link:** http://lattes.cnpq.br/9959521888530484
 
 ### <div align="center">Áreas de Pesquisa</div>
 
-?
+* Probabilidade e Estatística
 
 ### <div align="center">Disciplinas que Ministra</div>
 
@@ -207,6 +211,10 @@
 
 **Link:** http://lattes.cnpq.br/7830995887705679
 
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/fabio-pinheiro-9b55851a4
+
 ### <div align="center">Áreas de Pesquisa</div>
 
 * Desenvolvimentdo da camada de comunicação de um sistema multiagentes para sistema Mathema.
@@ -252,6 +260,10 @@
 ### <div align="center">Currículo Lattes</div>
 
 **Link:** http://lattes.cnpq.br/6134830462153246
+
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/jaquiel-fernandes-958405190
 
 ### <div align="center">Áreas de Pesquisa</div>
 
@@ -341,6 +353,10 @@
 
 **Link:** http://lattes.cnpq.br/7225904380595803   
 
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/leila-lisiane-rossi-0aa16998
+
 ### <div align="center">Áreas de Pesquisa</div>
 
 * Banco de Dados - Mineração de Dados.
@@ -387,6 +403,10 @@
 
 **Link:** http://lattes.cnpq.br/9841708735493808  
 
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/lucilene-baerle-1b406951
+
 ### <div align="center">Áreas de Pesquisa</div>
 
 * Grupo de pesquisa Inteligência Computacional Aplicada e Inovação Tecnológica.
@@ -431,6 +451,10 @@
 ### <div align="center">Currículo Lattes</div>
 
 **Link:** http://lattes.cnpq.br/6475893755893056
+
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/manass%C3%A9s-ribeiro-a49836176
 
 ### <div align="center">Áreas de Pesquisa</div>
 
@@ -524,6 +548,10 @@
 ### <div align="center">Currículo Lattes</div>
 
 **Link:** http://lattes.cnpq.br/2741156016361568
+
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/mauricionatanaelferreira
 
 ### <div align="center">Áreas de Pesquisa</div>
 
@@ -780,6 +808,10 @@
 ### <div align="center">Currículo Lattes</div>
 
 **Link:** http://lattes.cnpq.br/8586660833611210
+
+### <div align="center">LinkedIn</div>
+
+**Link:** https://www.linkedin.com/in/wanderson-rigo-46604348
 
 ### <div align="center">Áreas de Pesquisa</div>
 
