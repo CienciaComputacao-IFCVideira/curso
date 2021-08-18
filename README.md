@@ -79,7 +79,7 @@ Você pode encontrar o calendário acadêmico dos cursos superiores <a href="htt
   
 ## <div id="docente" align="center">Corpo docente</div>
   
-Você pode encontrar a lista do corpo docente do curso <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/Corpo-docente.md">aqui!</a>
+Você pode encontrar a lista do corpo docente do curso <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/corpo-docente.md">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
