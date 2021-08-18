@@ -1,7 +1,7 @@
 # <p align="center">PPC Ciência da Computação</p>
 
 <div align="center">
-  <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/README.md"><img src="https://img.shields.io/badge/-Voltar%20ao%20in%C3%ADcio-green?style=for-the-badge&color=fc6f03"/ ></a>
+  <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/README.md"><img src="https://img.shields.io/badge/-Voltar%20ao%20in%C3%ADcio-green?style=for-the-badge&color=8600d4"/ ></a>
 </div>
 
 ### <div id="nav">Navegação</div>
