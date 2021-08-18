@@ -16,6 +16,7 @@
   * <a href="#matriz">Matriz curricular obrigatória</a>
 * <a href="#disciplinas-op">Disciplinas optativas</a>
   * <a href="#matriz-op">Matriz curricular optativa</a>
+* <a href="#pcc">PCC</a>
 * <a href="#ementas">Ementas</a>
 * <a href="#calendario">Calendários 2021</a>
   * <a href="#acad">Calendário acadêmico - cursos superiores</a>
@@ -174,6 +175,14 @@ Tópicos Especiais em Informática VI | 30h
 </p>
   
 
+## <div id="pcc" align="center"> PCC (Prática como Componente Curricular)</div>
+
+  
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>
+  
 ## <div id="ementas" align="center"> Ementas </div>
   
 As ementas **obrigatórias** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa-ob.md">Ementas Obrigatórias</a>
