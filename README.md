@@ -52,7 +52,7 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
 </p>
   
 
-## <div id="pcc" align="center"> PPC (Projeto Pedagógico do Curso)</div>
+## <div id="ppc" align="center"> PPC (Projeto Pedagógico do Curso)</div>
 
 O GitHub com o PPC do curso pode ser encontrado <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ppc.md">aqui!</a>
   
