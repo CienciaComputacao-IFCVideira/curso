@@ -201,3 +201,13 @@ Você pode encontrar o calendário acadêmico dos cursos superiores <a href="htt
 * <a href="https://docs.google.com/spreadsheets/d/1fBRKQ0JCF0oDz6OW6XBCkiM7gw02su8ZG4e3EY03H8c/edit#gid=1594109815">Calendário 1º semestre</a>
 &nbsp;
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>
+  
+## <div id="docente" align="center">Corpo docente</div>
+  
+Você pode encontrar a lista do corpo docente do curso <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/Corpo-docente.md">aqui!</a>
+
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
