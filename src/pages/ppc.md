@@ -5,8 +5,8 @@
 </div>
 
 ### <div id="nav">Navegação</div>
-* <a href="apresentacao">Apresentação</a>
-* <a href="grafica">Representação gráfica</a>
+* <a href="#apresentacao">Apresentação</a>
+* <a href="#grafica">Representação gráfica</a>
 * <a href="#disciplinas">Disciplinas obrigatórias</a>
   * <a href="#matriz">Matriz curricular obrigatória</a>
 * <a href="#disciplinas-op">Disciplinas optativas</a>
