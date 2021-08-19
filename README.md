@@ -66,10 +66,10 @@ O GitHub com o PPC do curso pode ser encontrado <a href="src/pages/ppc.md">aqui!
   
 ### <div id="acad" align="center">Calendário acadêmico - cursos superiores</div>
   
-Você pode encontrar o calendário acadêmico dos cursos superiores <a href="http://videira.ifc.edu.br/wp-content/uploads/2021/03/GRADUACAO.pdf">aqui!</a>
+Você pode encontrar o calendário acadêmico dos cursos superiores <a href="src/files/calendario-academico-graduacao-2021.pdf">aqui!</a>
   
 ### <div id="calendario-curso" align="center">Calendário do curso de ciência da computação</div>
-* <a href="https://docs.google.com/spreadsheets/d/1fBRKQ0JCF0oDz6OW6XBCkiM7gw02su8ZG4e3EY03H8c/edit#gid=1594109815">Calendário 1º semestre</a>
+* <a href="src/files/calendario-1-sem-computacao.pdf">Calendário 1º semestre</a>
 &nbsp;
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
