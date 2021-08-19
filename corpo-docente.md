@@ -9,7 +9,7 @@
 
 ## Carlos Roberto da Silva
 
-<img src="https://user-images.githubusercontent.com/87784393/129793833-e7d7f935-db71-4fc6-b616-930d60c8936e.png" width="128" alt="Foto do docente" align="right"/>
+<img src="/src/img/prof-carlos.png" width="128" alt="Foto do docente" align="right"/>
 
 **:mortar_board: Graduação**: Licenciatura em Matemática<br>
 **:closed_book: Última Formação**: Doutorado em Educação Matemática<br>
@@ -22,7 +22,7 @@
 
 ## Emerson Luiz Lapolli
 
-<img src="https://user-images.githubusercontent.com/87784393/129958421-60dae58b-46b7-4440-b4b2-92e237d97828.png" width="128" align=right>
+<img src="/src/img/prof-emerson.png" width="128" align=right>
 
 **:mortar_board: Graduação**: Licenciatura em Física. <br>
 **:closed_book: Última Formação**: Doutorado em Física. <br>
@@ -35,7 +35,7 @@
 
 ## Fábio José Rodrigues Pinheiro
 
-<img src="https://user-images.githubusercontent.com/87784393/129945622-b27485cf-a1ed-4184-b7b2-0e035432acbd.jpg" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-fabio.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Ciências da Computação<br>
 **:closed_book: Última Formação**: Mestrado em Engenharia Elétrica<br>
@@ -47,7 +47,7 @@
 
 ## Gunther Cristiano Butzen
 
-<img src="https://user-images.githubusercontent.com/87784393/129957722-3676d658-a199-4fbf-85ad-b94974f926e1.png" width="128" align=right>
+<img src="/src/img/prof-gunther.png" width="128" align=right>
 
 **:mortar_board: Graduação**: Letras. <br>
 **:closed_book: Última Formação**: Mestrado em Letras. <br>
@@ -61,7 +61,7 @@
 
 ## Kennedy Ferreira Araújo
 
-<img src="https://user-images.githubusercontent.com/87784393/129780850-304c0c04-2c8d-48d6-b915-206abb4d478e.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-kennedy.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Sistemas de Informação <br>
 **:closed_book: Última Formação**: Mestrado Profissional em Gestão e Tecnologia Industrial <br>
@@ -73,7 +73,7 @@
 
 ## Leila Lisiane Rossi
 
-<img src="https://user-images.githubusercontent.com/87784393/129783834-ddcc314a-516f-4d06-869c-ef441ad5855e.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-leila.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Bacharelado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Mestrado em Ciências da Computação <br>
@@ -86,7 +86,7 @@
 
 ## Lucilene Dal Medico Baerle
 
-<img src="https://user-images.githubusercontent.com/87784393/129784760-1a7995eb-617d-4629-994d-e5d37fbc59da.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-lucilene.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Graduação em Ciências Plenas – Habilitação Matemática <br>
 **:closed_book: Última Formação**: Mestrado em Ensino de Matemática <br>
@@ -98,7 +98,7 @@
 
 ## Manassés Ribeiro
 
-<img src="https://user-images.githubusercontent.com/87784393/129785828-f11dcd71-bf9c-4b77-a9f8-669eb911eada.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-manasses.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Sistemas de Informação <br>
 **:closed_book: Última Formação**: Doutorado em Engenharia Elétrica e Informática Industrial <br>
@@ -110,7 +110,7 @@
 
 ## Mariah Rausch Pereira
 
-<img src="https://user-images.githubusercontent.com/87784393/129786358-b595773c-aabc-4272-9c3d-1c674cfca7a2.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-mariah.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Direito <br>
 **:closed_book: Última Formação**: Mestrado em Direito, com ênfase em Direito Internacional e Relações Internacionais <br>
@@ -123,7 +123,7 @@
 
 ## Maurício Natanael Ferreira
 
-<img src="https://user-images.githubusercontent.com/87784393/129786952-7045d9bd-197b-499c-beb0-868b4f7e9d33.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-mauricio.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Bacharelado em Sistemas de Informação <br>
 **:closed_book: Última Formação**: Especialização em Desenvolvimento Web <br>
@@ -136,7 +136,7 @@
 
 ## Rafael Antonio Zanin
 
-<img src="https://user-images.githubusercontent.com/87784393/129948197-f483b193-3b65-4cb6-9f14-8d4bd13a8ae4.jpg" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/unknown.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Engenharia de Produção e Sistemas <br>
 **:closed_book: Última Formação**: Mestrado em Engenharia de Processos <br>
@@ -148,7 +148,7 @@
 
 ## Renan Corrêa Bassoni
 
-<img src="https://user-images.githubusercontent.com/87784393/129956893-0c80c556-b699-4964-9f42-a6c8eacc4900.png" width="128" align=right>
+<img src="/src/img/prof-renan.png" width="128" align=right>
 
 **:mortar_board: Graduação**:  Engenharia Elétrica. <br>
 **:closed_book: Última Formação**: Mestrado em Engenharia Elétrica. <br>
@@ -160,7 +160,7 @@
 
 ## Rosa Maria Pascoali
 
-<img src="https://user-images.githubusercontent.com/87784393/129959527-4323849a-48b5-4994-8165-91e49e5539d1.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-rosa.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Mestrado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Doutorado em Ciências da Educação <br>
@@ -173,7 +173,7 @@
 
 ## Rosangela Aguiar Adam
 
-<img src="https://user-images.githubusercontent.com/87784393/129947639-9574d66d-928c-4c5f-b352-e9804c7d9df9.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-rosangela.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Mestrado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Especialização em Computação <br>
@@ -185,7 +185,7 @@
 
 ## Sergio Fernando Maciel Corrêa
 
-<img src="https://user-images.githubusercontent.com/87784393/129788823-b6ce6161-18be-4798-a018-90db9e21c80b.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-sergio.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Licenciatura Plena em Filosofia <br>
 **:closed_book: Última Formação**: Doutorado em Filosofia Social e Política <br>
@@ -197,7 +197,7 @@
 
 ## Wagner Carlos Mariani
 
-<img src="https://user-images.githubusercontent.com/87784393/129948197-f483b193-3b65-4cb6-9f14-8d4bd13a8ae4.jpg" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/unknown.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Ciência da Computação <br>
 **:closed_book: Última Formação**: Mestrado em Informática <br>
@@ -209,7 +209,7 @@
 
 ## Wanderson Rigo
 
-<img src="https://user-images.githubusercontent.com/87784393/129790299-53bcce61-91c8-475f-a2d1-b5df29de68eb.png" alt="Foto do docente" align=right width=128/>
+<img src="/src/img/prof-wanderson.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Mestrado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Mestrado em Ciências da Computação <br>
