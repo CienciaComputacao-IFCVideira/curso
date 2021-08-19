@@ -79,7 +79,36 @@ Você pode encontrar o calendário acadêmico dos cursos superiores <a href="htt
   
 ## <div id="docente" align="center">Corpo docente</div>
   
-Você pode encontrar a lista do corpo docente do curso <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/corpo-docente.md">aqui!</a>
+  
+
+O atual quadro docente de Ciência da Computação é composto por 17 professores. Acompanhe a tabela a seguir para visualizar as disciplinas ministradas por cada docente:
+
+Docente | Disciplinas Ministradas 
+:------:  | :-------:
+<a href="src/pages/corpo-docente.md/#carlos-roberto-da-silva">Carlos Roberto da Silva</a> | <a href="src/pages/ementa-ob.md/#cálculo-diferencial-e-integral-ii--60-horas">Cálculo Diferencial e Integral II</a>
+<a href="src/pages/corpo-docente.md/#emerson-luiz-lapolli">Emerson Luiz Lapolli</a> | <a href="src/pages/ementa-ob.md/#física-i--30-horas">Física I</a>
+<a href="src/pages/corpo-docente.md/#fábio-josé-rodrigues-pinheiro">Fábio José Rodrigues Pinheiro</a> | <a href="src/pages/ementa-ob.md/#sistemas-distribuídos--60-horas">Sistemas Distribuídos</a> <br>
+<a href="src/pages/corpo-docente.md/#gunther-cristiano-butzen">Gunther Cristiano Butzen</a> | <a href="src/pages/ementa-ob.md/#inglês-i---30-horas">Inglês I</a>, <a href="src/pages/ementa-ob.md/#inglês-iii--30-horas">Inglês III</a>
+<a href="src/pages/corpo-docente.md/#kennedy-ferreira-araújo">Kennedy Ferreira Araújo</a> | <a href="src/pages/ementa-ob.md/#fundamentos-matemáticos-da-computação---60-horas">Fundamentos Matemáticos da Computação</a>, <a href="src/pages/ementa-ob.md/#interface-homem-máquina--60-horas">Interface Homem-Máquina</a>, <a href="src/pages/ementa-ob.md/#optativa-iii--30-horas">Optativa III</a>
+<a href="src/pages/corpo-docente.md/#leila-lisiane-rossi">Leila Lisiane Rossi</a> | <a href="src/pages/ementa-ob.md/#banco-de-dados-ii--60-horas">Banco de Dados II</a>
+<a href="src/pages/corpo-docente.md/#lucilene-dal-medico-baerle">Lucilene Dal Medico Baerle</a> | <a href="src/pages/ementa-ob.md/#pré-cálculo---60-horas">Pré-Cálculo</a>, <a href="src/pages/ementa-ob.md/#cálculo-diferencial-e-integral-i--60-horas">Cálculo Diferencial e Integral I</a>, <a href="src/pages/ementa-ob.md/#cálculo-diferencial-e-integral-ii--60-horas">Cálculo Diferencial e Integral II</a>, <a href="src/pages/ementa-ob.md/#álgebra-linear--60-horas">Álgebra Linear</a><br>  
+<a href="src/pages/corpo-docente.md/#manassés-ribeiro">Manassés Ribeiro</a> | <a href="src/pages/ementa-ob.md/#algoritmos--90-horas">Algoritmos</a>, <a href="src/pages/ementa-ob.md/#estrutura-de-dados-i--60-horas">Estrutura de Dados I</a>, <a href="src/pages/ementa-ob.md/#inteligência-artificial--60-horas">Inteligência Artificial</a><br>
+<a href="src/pages/corpo-docente.md/#mariah-rausch-pereira">Mariah Rausch Pereira</a> | <a href="src/pages/ementa-ob.md/#metodologia-científica---30-horas">Metodologia Científica</a><br>
+<a href="src/pages/corpo-docente.md/#maurício-natanael-ferreira">Maurício Natanael Ferreira</a> | <a href="src/pages/ementa-ob.md/#linguagem-de-programação-ii--60-horas">Linguagem de Programação II</a><br>
+<a href="src/pages/corpo-docente.md/#rafael-antonio-zanin">Rafael Antonio Zanin</a> | <a href="src/pages/ementa-ob.md/#probabilidade-e-estatística--60-horas">Probabilidade e Estatística</a> <br>
+<a href="src/pages/corpo-docente.md/#renan-corrêa-bassoni">Renan Corrêa Bassoni</a> | <a href="src/pages/ementa-ob.md/#sistemas-embarcados--60-horas">Sistemas Embarcados</a>, <a href="src/pages/ementa-ob.md/#circuitos-digitais--30-horas">Circuitos Digitais</a> <br>
+<a href="src/pages/corpo-docente.md/#rosa-maria-pascoali">Rosa Maria Pascoali</a> | <a href="src/pages/ementa-ob.md/#arquitetura-de-computadores--60-horas">Arquitetura de Computadores</a>, <a href="src/pages/ementa-ob.md/#segurança-de-sistemas--60-horas">Segurança de Sistemas</a>
+<a href="src/pages/corpo-docente.md/#rosangela-aguiar-adam">Rosangela Aguiar Adam</a> | <a href="src/pages/ementa-ob.md/#fundamentos-da-informática---30-horas">Fundamentos de Informática</a>, <a href="src/pages/ementa-ob.md/#engenharia-de-software-i--60-horas">Engenharia de Software I</a>, <a href="src/pages/ementa-ob.md/#engenharia-de-software-ii--60-horas">Engenharia de Software II</a>, <a href="src/pages/ementa-ob.md/#trabalho-de-curso-i--60-horas">Trabalho de Curso I</a><br>
+<a href="src/pages/corpo-docente.md/#sergio-fernando-maciel-corrêa">Sergio Fernando Maciel Corrêa</a> | <a href="src/pages/ementa-ob.md/#epistemologia-e-filosofia--30-horas">Filosofia e Epistemologia</a>, <a href="src/pages/ementa-ob.md/#ciência-tecnologia-e-sociedade--30-horas">Ciência, Tecnologia e Sociedade</a> <br>
+<a href="src/pages/corpo-docente.md/#wagner-carlos-mariani">Wagner Carlos Mariani</a> | <a href="src/pages/ementa-ob.md/#redes-de-computadores-ii--60-horas">Redes de Computadores II</a>, <a href="src/pages/ementa-ob.md/#computação-gráfica--60-horas">Computação Gráfica</a><br>
+<a href="src/pages/corpo-docente.md/#wanderson-rigo">Wanderson Rigo</a> | <a href="src/pages/ementa-ob.md/#compiladores--60-horas">Compiladores</a>, <a href="src/pages/ementa-ob.md/#paradigmas-da-computação--30-horas">Paradigmas da Computação</a>, <a href="src/pages/ementa-ob.md/#linguagens-formais-e-autômatos--30-horas">Linguagens Formais e Autômatos</a>, <a href="src/pages/ementa-ob.md/#programação-lógica-e-funcional--30-horas">Programação Lógica e Funcional</a><br>
+
+  &nbsp;
+  
+<div align="center">
+  <a href="src/pages/corpo-docente.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20cada%20docente-green?style=for-the-badge&color=8600d4"/></a> </div>
+  
+&nbsp; 
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
