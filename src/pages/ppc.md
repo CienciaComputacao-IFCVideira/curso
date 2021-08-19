@@ -151,10 +151,10 @@ Tópicos Especiais em Informática VI | 30h
 
 ## <div id="ementas" align="center"> Ementas </div>
   
-As ementas **obrigatórias** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa-ob.md">Ementas Obrigatórias</a>
+As ementas **obrigatórias** estão disponíveis em <a href="src/pages/ementa-ob.md">Ementas Obrigatórias</a>
 
   
-As ementas **optativas** estão disponíveis em <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ementa-op.md">Ementas Optativas</a>
+As ementas **optativas** estão disponíveis em <a href="src/pages/ementa-op.md">Ementas Optativas</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
