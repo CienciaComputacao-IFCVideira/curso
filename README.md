@@ -54,7 +54,7 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
 
 ## <div id="ppc" align="center"> PPC (Projeto Pedagógico do Curso)</div>
 
-O GitHub com o PPC do curso pode ser encontrado <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/ppc.md">aqui!</a>
+O GitHub com o PPC do curso pode ser encontrado <a href="src/pages/ppc.md">aqui!</a>
   
 
    
@@ -118,7 +118,7 @@ Docente | Disciplinas Ministradas
   
 ## <div id="egresso" align="center">Perfil do egresso</div>
   
-Você pode encontrar a página do perfil do egresso <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/perfil-egresso.md">aqui!</a>
+Você pode encontrar a página do perfil do egresso <a href="src/pages/perfil-egresso.md">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
 
@@ -128,6 +128,6 @@ Você pode encontrar a página do perfil do egresso <a href="https://github.com/
   
 ## <div id="info" align="center">Mais informações</div>
   
-Para mais informações, clique <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/info.md">aqui!</a>
+Para mais informações, clique <a href="src/pages/info.md">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
