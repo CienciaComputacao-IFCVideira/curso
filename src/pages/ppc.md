@@ -6,6 +6,7 @@
 
 ### <div id="nav">Navegação</div>
 * <a href="apresentacao">Apresentação</a>
+* <a href="grafica">Representação gráfica</a>
 * <a href="#disciplinas">Disciplinas obrigatórias</a>
   * <a href="#matriz">Matriz curricular obrigatória</a>
 * <a href="#disciplinas-op">Disciplinas optativas</a>
@@ -24,6 +25,19 @@
 O link para o pdf da apresentação pode ser encontrado <a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/src/files/apresentacao.pdf">aqui!</a>
   
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>
+
+## <div id="grafica" align="center"> Representação Gráfica </div>
+
+<a href="https://github.com/CienciaComputacao-IFCVideira/curso/blob/main/src/img/representacao-grafica.jpg">Aqui</a> está uma representação gráfica da grade de disciplinas da computação.
+  
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+
+
+
 
 
 <p align="center">
