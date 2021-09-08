@@ -119,7 +119,7 @@ Docente | Disciplinas Ministradas
   
 ## <div id="evento" align="center">Eventos</div>
   
-Você pode encontrar os eventos agendados do curso <a href="src/pages/perfil-egresso.md">aqui!</a>
+Você pode encontrar os eventos agendados do curso <a href="src/pages/eventos.md">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
