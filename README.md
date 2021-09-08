@@ -71,6 +71,7 @@ Você pode encontrar o calendário acadêmico dos cursos superiores <a href="src
   
 ### <div id="calendario-curso" align="center">Calendário do curso de ciência da computação</div>
 * <a href="src/files/calendario-1-sem-computacao.pdf">Calendário 1º semestre</a>
+* <a href="src/files/calendario-2-sem-computacao.pdf">Calendário 2º semestre</a>
 &nbsp;
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
