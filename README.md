@@ -18,6 +18,7 @@
   * <a href="#calendario-curso">Calendário do curso de ciência da computação</a>
 * <a href="#docente">Corpo docente</a>
 * <a href="#eventos">Eventos</a>
+* <a href="#galeria">Galeria</a>
 * <a href="#egresso">Perfil do egresso</a>
 * <a href="#coordenacao">Coordenação</a>
 * <a href="#info">Mais informações</a>
@@ -121,6 +122,16 @@ Docente | Disciplinas Ministradas
 ## <div id="evento" align="center">Eventos</div>
   
 Você pode encontrar os eventos agendados do curso <a href="src/pages/eventos.md">aqui!</a>
+
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>  
+  
+## <div id="galeria" align="center">Galeria</div>
+  
+Você pode encontrar a galeria de fotos do curso <a href="https://cienciacomputacao-ifcvideira.github.io/gallery/">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
