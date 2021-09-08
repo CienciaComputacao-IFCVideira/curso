@@ -17,6 +17,7 @@
   * <a href="#acad">Calendário acadêmico - cursos superiores</a>
   * <a href="#calendario-curso">Calendário do curso de ciência da computação</a>
 * <a href="#docente">Corpo docente</a>
+* <a href="#eventos">Eventos</a>
 * <a href="#egresso">Perfil do egresso</a>
 * <a href="#coordenacao">Coordenação</a>
 * <a href="#info">Mais informações</a>
@@ -109,6 +110,16 @@ Docente | Disciplinas Ministradas
   <a href="src/pages/corpo-docente.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20cada%20docente-green?style=for-the-badge&color=8600d4"/></a> </div>
   
 &nbsp; 
+
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>  
+  
+## <div id="evento" align="center">Eventos</div>
+  
+Você pode encontrar os eventos agendados do curso <a href="src/pages/perfil-egresso.md">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
