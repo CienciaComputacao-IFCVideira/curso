@@ -20,7 +20,6 @@
 * <a href="#eventos">Eventos</a>
 * <a href="#galeria">Galeria</a>
 * <a href="#egresso">Perfil do egresso</a>
-* <a href="#coordenacao">Coordenação</a>
 * <a href="#info">Mais informações</a>
 
 <p align="center">
