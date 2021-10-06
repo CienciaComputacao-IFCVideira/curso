@@ -16,7 +16,9 @@
 * <a href="#calendario">Calendários 2021</a>
   * <a href="#acad">Calendário acadêmico - cursos superiores</a>
   * <a href="#calendario-curso">Calendário do curso de ciência da computação</a>
-* <a href="#docente">Corpo docente</a>
+* <a href="#docente">Corpo docente</a> 
+* <a href="#ingresso">Página do ingresso</a>
+* <a href="#representantes">Representantes de turma</a>
 * <a href="#eventos">Eventos</a>
 * <a href="#galeria">Galeria</a>
 * <a href="#egresso">Perfil do egresso</a>
@@ -117,6 +119,37 @@ Docente | Disciplinas Ministradas
 <p align="center">
  <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
 </p>  
+  
+  
+  ## <div id="ingresso" align="center">Página do ingresso</div>
+  
+A página do ingresso é para aqueles que precisam de auxílio ou querem saber como ingressar no Instituto Federal num curso de ensino superior.
+
+Você pode encontrar mais sobre <a href="src/pages/pagina-do-ingresso.md">aqui!</a>
+
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>  
+  
+  
+  
+  
+  ## <div id="representantes" align="center">Representantes de turma</div>
+  
+Os representantes de turma são alunos da própria classe que têm uma função parecida com a de mediação e gerência. É esse estudante que vai levar questões comuns dos demais colegas de sala para professores e coordenadores.
+
+Você pode encontrar mais sobre <a href="src/pages/eventos.md">aqui! (nada, ainda não foi feito) </a>
+
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>  
+  
+  
+  
   
 ## <div id="evento" align="center">Eventos</div>
   
