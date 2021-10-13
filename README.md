@@ -140,7 +140,7 @@ Você pode encontrar mais sobre <a href="src/pages/pagina-do-ingresso.md">aqui!<
   
 Os representantes de turma são alunos da própria classe que têm uma função parecida com a de mediação e gerência. É esse estudante que vai levar questões comuns dos demais colegas de sala para professores e coordenadores.
 
-Você pode encontrar mais sobre <a href="src/pages/eventos.md">aqui! (nada, ainda não foi feito) </a>
+Você pode encontrar os representantes de classe da Computação <a href="src/pages/representantes.md">aqui! (nada, ainda não foi feito) </a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
