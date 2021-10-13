@@ -293,6 +293,7 @@ No momento da manifestação presencial, os candidatos deverão apresentar docum
 Com relação à manifestação presencial, poderão ocorrer as seguintes situações:
 
 • *O número de interessados é menor ou igual ao número de vagas disponíveis*: neste caso, os candidatos que manifestaram interesse deverão comparecer ao campus para serem matriculados pela ampla concorrência em datas definidas no edital do processo seletivo.
+
 • *O número de interessados é maior do que o número de vagas disponíveis*: neste caso, os candidatos que manifestaram interesse deverão comparecer para serem matriculados conforme sua classificação na lista de espera do Sisu e conforme sua opção dentro do Sistema de Ações Afirmativas em datas definidas no edital do processo seletivo. Os interessados que não forem matriculados formarão um cadastro de reserva, e, caso algum candidato não efetive sua matrícula ou haja alguma desistência, serão chamados os próximos candidatos presentes na manifestação presencial, de acordo com a sua classificação e o número de vagas disponíveis.
 O cadastro de reserva consistirá em listas de classificação, formadas pelos candidatos presentes na manifestação presencial e que não foram matriculados, os quais poderão ser convocados para preenchimento de vagas que surgirem até um mês após o início das aulas.
 O não comparecimento do candidato na manifestação presencial implica a desistência da vaga e faculta ao IFC a convocação de outros candidatos.
